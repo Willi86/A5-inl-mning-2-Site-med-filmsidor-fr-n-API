@@ -19,3 +19,4 @@ express
 handelbars
 movie-list
 *****
+![image](https://github.com/Willi86/A5-inl-mning-2-Site-med-filmsidor-fr-n-API/assets/102516608/bfacc92f-1027-4f82-b9c9-6f201435d479)

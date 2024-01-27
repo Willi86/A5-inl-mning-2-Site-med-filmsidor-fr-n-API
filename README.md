@@ -10,3 +10,12 @@ Project Cinema group B (Tidaholm)
 * Never write in .CSS directly BUT ok to write vanilla CSS in the SASS file
 * Unique branch for each PBI
 * Use rem (relative measurements instead of px on e.g. fontsize).
+
+
+*****
+William Branch
+Unit testing.
+express
+handelbars
+movie-list
+*****
